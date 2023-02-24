@@ -1,5 +1,5 @@
 
-
+import streamlit
 
 with streamlit.sidebar: 
     streamlit.image("https://www.onepointltd.com/wp-content/uploads/2020/03/inno2.png")
